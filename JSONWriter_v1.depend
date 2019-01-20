@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1514624410 source:d:\jsonwriter\jsonv1\jsonwriter_v1\jsonwriter.c
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	"JSONWriter.h"
+
+1514540741 d:\jsonwriter\jsonv1\jsonwriter_v1\jsonwriter.h
+
+1515510988 source:d:\jsonwriter\jsonv1\jsonwriter_v1\json_test.c
+	<stdio.h>
+	"JSONWriter.h"
+	"JSONParser.h"
+
+1515510881 source:d:\jsonwriter\jsonv1\jsonwriter_v1\jsonparser.c
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	"JSONParser.h"
+
+1515507856 d:\jsonwriter\jsonv1\jsonwriter_v1\jsonparser.h
+
+1515510881 source:c:\projects\jsonwriter_v1\jsonparser.c
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	"JSONParser.h"
+
+1515507856 c:\projects\jsonwriter_v1\jsonparser.h
+
+1514624410 source:c:\projects\jsonwriter_v1\jsonwriter.c
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+	"JSONWriter.h"
+
+1514540741 c:\projects\jsonwriter_v1\jsonwriter.h
+
+1546622169 source:c:\projects\jsonwriter_v1\json_test.c
+	<stdio.h>
+	"JSONWriter.h"
+	"JSONParser.h"
+
